@@ -3,6 +3,7 @@
 We conducted three target trial emulations using CPRD, a database of primary care data in the UK. Our hypotheses were:
 
 1: As simvastatin has the most potential to cross the BBB, based on its lipophilic nature and molecular weight, patients with SMI initiating simvastatin in combination with antipsychotic or mood stabilisers will have lower psychiatric hospital admissions than those initiating atorvastatin, pravastatin or rosuvastatin.
+
 2: As simvastatin and atorvastatin inhibit p-glycoprotein and aripiprazole, risperidone and olanzapine have affinity for this:
   A: patients initiating these statins in combination with these antipsychotics will have lower psychiatric hospital admissions than those initiating pravastatin (no p-glycoprotein inhibition) and the same antipsychotics.
   B: patients with ongoing prescriptions of these statins initiating these antipsychotics will have lower psychiatric hospital admissions than those prescribed these statins initiating quetiapine (not a substrate of p-glycoprotein).
