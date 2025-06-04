@@ -1,0 +1,68 @@
+"medcode"	"readcode"	"desc"	"AD"
+"7569"	"TJ90.00"	"adverse reaction to antidepressants"	1
+"17964"	"T840z00"	"accidental poisoning by antidepressants nos"	1
+"23979"	"SL90100"	"imipramine poisoning"	1
+"27112"	"44u4.00"	"serum amitriptyline level"	1
+"31557"	"U609200"	"[x]other unspec antidepres caus advers effect in therap use"	1
+"31558"	"SL90000"	"amitriptyline poisoning"	1
+"33618"	"U609000"	"[x]tricyc/tetracyc antidepres caus advers eff therapeut use"	1
+"34470"	"TJ90000"	"adverse reaction to amitriptyline"	1
+"34703"	"U204.12"	"[x]overdose - amitriptyline"	1
+"38170"	"TJ90A00"	"adverse reaction to trimipramine"	1
+"39808"	"TJ90z00"	"adverse reaction to antidepressants nos"	1
+"44447"	"SL90.00"	"antidepressant poisoning"	1
+"46045"	"SL90z00"	"anti-depressant poisoning nos"	1
+"46280"	"U204.11"	"[x]overdose - antidepressant"	1
+"46796"	"U609211"	"[x] adverse reaction to antidepressant"	1
+"46962"	"E258.00"	"nondependent antidepressant type drug abuse"	1
+"48600"	"TJ90700"	"adverse reaction to lofepramine"	1
+"48620"	"U609013"	"[x] adverse reaction to clomipramine"	1
+"48629"	"TJ90200"	"adverse reaction to clomipramine"	1
+"51064"	"U609011"	"[x] adverse reaction to amitriptyline"	1
+"54911"	"U1A4.12"	"[x]accidental poisoning with amitriptyline"	1
+"55491"	"U609015"	"[x] adverse reaction to dosulepin"	1
+"55631"	"U609213"	"[x] adverse reaction to antidepressants nos"	1
+"55938"	"T840100"	"accidental poisoning by imipramine"	1
+"56411"	"44uL.00"	"serum clomipramine level"	1
+"57673"	"U1A4.11"	"[x]accidental poisoning with antidepressant"	1
+"58944"	"TJ90500"	"adverse reaction to doxepin"	1
+"59697"	"TJ90D00"	"adverse reaction to phenelzine"	1
+"59704"	"44u6.00"	"plasma clomipramine level"	1
+"59712"	"46Q4.11"	"imipramine in urine"	1
+"60117"	"TJ90C00"	"adverse reaction to mianserin"	1
+"61356"	"TJ90E00"	"adverse reaction to isocarboxazid"	1
+"62986"	"T840.00"	"accidental poisoning by antidepressants"	1
+"63082"	"T840000"	"accidental poisoning by amitriptyline"	1
+"63441"	"TJ90600"	"adverse reaction to imipramine"	1
+"63649"	"U609018"	"[x] adverse reaction to lofepramine"	1
+"64162"	"SL90300"	"trazodone poisoning"	1
+"70434"	"TJ90800"	"adverse reaction to nortriptyline"	1
+"71952"	"44uP.00"	"serum nortriptyline level"	1
+"73826"	"TJ90B00"	"adverse reaction to maprotiline"	1
+"73835"	"U609016"	"[x] adverse reaction to doxepin"	1
+"73846"	"U60901C"	"[x] adverse reaction to maprotiline"	1
+"73877"	"U609017"	"[x] adverse reaction to imipramine"	1
+"94436"	"E258z00"	"nondependent antidepressant type drug abuse nos"	1
+"94634"	"U609B00"	"[x]sertraline adverse reaction"	1
+"94767"	"U609A00"	"[x]fluoxetine adverse reaction"	1
+"96878"	"TJ90H00"	"adverse reaction to tryptophan"	1
+"97532"	"U609212"	"[x] adverse reaction to tryptophan"	1
+"98958"	"46Q4.00"	"urine imipramine"	1
+"99798"	"1TC..00"	"h/o anti-depressant misuse"	1
+"99823"	"U609019"	"[x] adverse reaction to nortriptyline"	1
+"100179"	"665A000"	"antidepressant drug treatment stopped"	1
+"101635"	"44uk.00"	"fluoxetine level"	1
+"102632"	"6659000"	"antidepressant drug treatment started"	1
+"103881"	"1TC0.00"	"h/o daily anti-depressant misuse"	1
+"106143"	"1TC3.00"	"previous history of anti-depressant misuse"	1
+"108741"	"6658000"	"antidepressant drug treatment changed"	1
+"110943"	"8I2v.00"	"tricyclic antidepressant contraindicated"	1
+"111569"	"U60901D"	"[x] adverse reaction to mianserin"	1
+"112435"	"44vN.00"	"serum imipramine concentration"	1
+"113158"	"U609111"	"[x] adverse reaction to phenelzine"	1
+"113345"	"E258200"	"nondependent antidepressant type drug abuse, episodic"	1
+"113793"	"E258000"	"nondependent antidepressant type drug abuse, unspecified"	1
+"114565"	"44ui.00"	"norclomipramine level"	1
+"115583"	"U60901B"	"[x] adverse reaction to trimipramine"	1
+"115652"	"C30A.00"	"tryptophan malabsorption syndrome"	1
+"116072"	"44ui000"	"serum norclomipramine level"	1
