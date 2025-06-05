@@ -30,7 +30,7 @@ Observation_files<-paste0("", Observation_files)
 #~~~Select only observations that are statin based
 PatObsGold<-data.frame()
 
-for (i in (length(Observation_files))) {
+for (i in 1:(length(Observation_files))) {
   FileName<-Observation_files[i]
   PatObs<-ReadObsG(FileName)
   PatObs<-select(PatObs, -bnfcode)
@@ -51,11 +51,10 @@ Observation_files<-paste0("", Observation_files)
 
 PatObsAurum<-data.frame()
 
-for (i in (length(Observation_files))) {
+for (i in 1:(length(Observation_files))) {
   FileName<-Observation_files[i]
   PatObs<-ReadObsA(FileName)
   PatObs<-select(PatObs, -bnfcode)
-  PatObs<-ReadObsA(FileName)
   PatObs<-merge(x=AurumStat, y=PatObs, by.x="ProdCodeId", by.y="prodcodeid", all.y = FALSE, all.x=FALSE)
   PatObsAurum<-rbind(PatObsAurum, PatObs)
   print(Observation_files[i])
@@ -161,7 +160,7 @@ Observation_files2<-paste0("", Observation_files2)
 #Select those that are SMI 
 PatSMIGold<-data.frame()
 
-for (i in (length(Observation_files))) {
+for (i in 1:(length(Observation_files))) {
   FileName<-Observation_files[i]
   load(FileName)
   PatObs<-ReadObsG(FileName)
@@ -173,7 +172,7 @@ for (i in (length(Observation_files))) {
 }
 rm(PatObs)
 
-for (i in (length(Observation_files1))) {
+for (i in 1:(length(Observation_files1))) {
   FileName<-Observation_files1[i]
   load(FileName)
   PatObs<-ReadObsG(FileName)
@@ -185,7 +184,7 @@ for (i in (length(Observation_files1))) {
 }
 rm(PatObs)
 
-for (i in (length(Observation_files2))) {
+for (i in 1:(length(Observation_files2))) {
   FileName<-Observation_files2[i]
   load(FileName)
   PatObs<-ReadObsG(FileName)
@@ -224,7 +223,7 @@ PatSMIAurum<-data.frame()
 
 #Select those that are SMI 
 
-for (i in (length(Observation_files2))) {
+for (i in 1:(length(Observation_files2))) {
   FileName<-Observation_files2[i]
   load(FileName)
   PatObs<-ReadObsA(FileName)
