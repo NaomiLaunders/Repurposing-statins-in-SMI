@@ -12,3 +12,7 @@ Through testing these hypotheses we aimed to determine the potential mechanism o
 
 Read our pre-print here:
 [Psychiatric symptom improvement from adjunctive statin prescribing in severe mental illness: three target trial emulation studies](https://www.medrxiv.org/content/10.1101/2025.01.20.25320829v1)
+
+Code lists are organised into chunks: Code lists (scripts beginning 1), observations (scripts beginning 2), cohort creation (scripts beginning 3) and analysis (scripts beginning 4).
+
+This project uses pseudonymised patient records and so no data is available for uploading.
