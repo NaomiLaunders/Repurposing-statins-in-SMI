@@ -6,9 +6,9 @@ We conducted three target trial emulations using CPRD, a database of primary car
 
 2: As simvastatin and atorvastatin inhibit p-glycoprotein and aripiprazole, risperidone and olanzapine have affinity for this:
 
-                                    A: patients initiating these statins in combination with these antipsychotics will have lower psychiatric hospital admissions than those initiating pravastatin (no p-glycoprotein inhibition) and the same antipsychotics.
+  A: patients initiating these statins in combination with these antipsychotics will have lower psychiatric hospital admissions than those initiating pravastatin (no p-glycoprotein inhibition) and the same antipsychotics.
                                       
-                                    B: patients with ongoing prescriptions of these statins initiating these antipsychotics will have lower psychiatric hospital admissions than those prescribed these statins initiating quetiapine (not a substrate of p-glycoprotein).
+  B: patients with ongoing prescriptions of these statins initiating these antipsychotics will have lower psychiatric hospital admissions than those prescribed these statins initiating quetiapine (not a substrate of p-glycoprotein).
 
 Through testing these hypotheses we aimed to determine the potential mechanism of action of statins in improving psychiatric symptoms in people with SMI. We use the target trial emulation framework, a causal inference approach to analysing observational data in line with a hypothetical trial, with an aim of improving study design and limiting bias.
 
